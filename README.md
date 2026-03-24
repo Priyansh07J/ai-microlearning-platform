@@ -1,6 +1,7 @@
 # AI-Powered Micro-Learning Platform 📱🤖
 
 ## 🚀 Overview
+An AI powered mobile learning platform that delievers personalized eductaion using machine learning.
 
 This project is an AI-powered mobile application built using Flutter, designed to deliver personalized micro-learning experiences.
 
