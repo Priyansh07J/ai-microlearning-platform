@@ -46,6 +46,12 @@ The platform focuses on providing short-duration (5–10 minutes) learning modul
 * Manage users, courses, and analytics
 
 ---
+## ⚡ Key Technical Highlights
+
+- Designed scalable mobile architecture using Flutter
+- Planning ML-based recommendation system for personalized learning
+- Implemented modular code structure for maintainability
+- Offline-first approach with future sync capabilities
 
 ## 🛠 Tech Stack
 
@@ -106,6 +112,17 @@ linux/              # Linux support
 * Real-time analytics dashboard
 
 ---
+## 🧠 Machine Learning Plan
+
+The recommendation system will be built using:
+
+- User performance data (scores, progress)
+- Content-based filtering
+- Adaptive learning paths
+
+Future improvements:
+- Collaborative filtering
+- Deep learning-based recommendations
 
 ## 🎯 Goal
 
