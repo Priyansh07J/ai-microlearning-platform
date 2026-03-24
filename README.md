@@ -50,7 +50,7 @@ The platform focuses on providing short-duration (5–10 minutes) learning modul
 ## 🛠 Tech Stack
 
 * **Frontend:** Flutter (Dart)
-* **Machine Learning:** Python (Planned)
+* **Machine Learning (Recommendation System using user performance data)
 * **Database:** (To be implemented)
 * **Tools:** Git, GitHub
 
